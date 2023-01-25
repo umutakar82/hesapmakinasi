@@ -1,5 +1,7 @@
 import os
 
+os.system("title Hesap Makinası")
+
 print("""
 Hesap Makinası
 
